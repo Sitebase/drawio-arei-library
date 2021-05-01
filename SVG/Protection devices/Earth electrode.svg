@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="0.239554in" height="0.239554in" viewBox="0 0 17.2479 17.2479" xml:space="preserve"
+		color-interpolation-filters="sRGB" class="st2">
+	<title>Earth electrode</title>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>Earth electrode</title>
+		<g id="1" transform="translate(0.12,-0.12)">
+			<title>Earth electrode</title>
+			<g id="2">
+				<title>Earth electrode</title>
+				<path d="M10.96 17.25 L6.8 17.25" class="st1"/>
+				<path d="M14.17 14.41 L2.83 14.41" class="st1"/>
+				<path d="M17.01 11.58 L0 11.58" class="st1"/>
+				<path d="M8.5 11.58 L8.5 0.24" class="st1"/>
+			</g>
+		</g>
+	</g>
+</svg>

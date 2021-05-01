@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="0.288766in" height="0.239554in" viewBox="0 0 20.7912 17.2479" xml:space="preserve"
+		color-interpolation-filters="sRGB" class="st5">
+	<title>Washing machine for floorplan</title>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st2 {fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st3 {fill:none}
+		.st4 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st5 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>Washing machine for floorplan</title>
+		<g id="1" transform="translate(0.12,-0.12)">
+			<title>Wasmachine voor ééndraadsschema</title>
+			<g id="2" transform="translate(6.37795,-2.83465)">
+				<title>Washing machine for floorplan</title>
+				<ellipse cx="5.66929" cy="11.5786" rx="5.66929" ry="5.66929" class="st1"/>
+			</g>
+			<g id="3" transform="translate(9.77953,-6.23622)">
+				<title>Washing machine for floorplan</title>
+				<ellipse cx="2.26772" cy="14.9802" rx="2.26772" ry="2.26772" class="st2"/>
+			</g>
+			<g id="4">
+				<title>Washing machine for floorplan</title>
+				<path d="M3.54 8.74 L3.54 0.24 L20.55 0.24 L20.55 17.25 L3.54 17.25 L3.54 8.74 Z" class="st3"/>
+				<path d="M3.54 8.74 L3.54 0.24 L20.55 0.24 L20.55 17.25 L3.54 17.25 L3.54 8.74" class="st4"/>
+				<path d="M3.54 8.74 L-0 8.74" class="st4"/>
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="0.288836in" height="0.295588in" viewBox="0 0 20.7962 21.2823" xml:space="preserve"
+		color-interpolation-filters="sRGB" class="st5">
+	<title>Refrigerator for floorplan</title>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st2 {fill:#000000;font-family:Times New Roman;font-size:1.33333em}
+		.st3 {fill:none}
+		.st4 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st5 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>Refrigerator for floorplan</title>
+		<g id="1" transform="translate(0.12,-4.15447)">
+			<title>Koelkast voor ééndraadsschema</title>
+			<g id="2" transform="translate(3.54331,-2.89432)">
+				<title>Refrigerator for floorplan</title>
+				<desc>*</desc>
+				<rect x="0" y="16.18" width="17.0079" height="5.10236" class="st1"/>
+				<text x="4.5" y="23.53" class="st2">*</text>			</g>
+			<g id="3">
+				<title>Refrigerator for floorplan</title>
+				<path d="M3.54 21.28 L3.54 4.27 L20.55 4.27 L20.55 21.28 L3.54 21.28 Z" class="st3"/>
+				<path d="M3.54 21.28 L3.54 4.27 L20.55 4.27 L20.55 21.28 L3.54 21.28" class="st4"/>
+				<path d="M-0 12.78 L3.54 12.78" class="st4"/>
+			</g>
+		</g>
+	</g>
+</svg>

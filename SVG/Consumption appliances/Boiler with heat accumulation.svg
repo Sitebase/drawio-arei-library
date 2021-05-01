@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="0.239554in" height="0.239554in" viewBox="0 0 17.2479 17.2479" xml:space="preserve"
+		color-interpolation-filters="sRGB" class="st3">
+	<title>Boiler with heat accumulation</title>
+	
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none}
+		.st2 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>Boiler with heat accumulation</title>
+		<g id="1" transform="translate(0.12,-0.12)">
+			<title>Boiler met accumulatie</title>
+			<g id="2">
+				<title>Boiler with heat accumulation</title>
+				<path d="M17.01 8.74 A8.50394 8.50394 0 1 1 0 8.74 A8.50394 8.50394 0 1 1 17.01 8.74 ZM12.47 12.53 A5.66929 5.52756
+							 90 0 1 10.83 13.82 A5.66929 5.52756 90 0 1 9.18 14.35 A5.66929 5.52756 90 0 1 7.54 14.35 A5.66929 5.52756
+							 90 0 1 5.9 13.82 A5.66929 5.52756 90 0 1 4.25 12.53 A5.66929 5.52756 90 0 1 4.25 4.95 A5.66929 5.52756
+							 90 0 1 5.9 3.67 A5.66929 5.52756 90 0 1 7.54 3.14 A5.66929 5.52756 90 0 1 9.18 3.14 A5.66929 5.52756
+							 90 0 1 10.83 3.67 A5.66929 5.52756 90 0 1 12.47 4.95 A5.66929 5.52756 90 0 1 12.47 12.53 Z"
+						class="st1"/>
+				<path d="M17.01 8.74 A8.50394 8.50394 0 1 1 0 8.74 A8.50394 8.50394 0 1 1 17.01 8.74" class="st2"/>
+				<path d="M12.47 12.53 A5.66929 5.52756 90 0 1 10.83 13.82 A5.66929 5.52756 90 0 1 9.18 14.35 A5.66929 5.52756 90
+							 0 1 7.54 14.35 A5.66929 5.52756 90 0 1 5.9 13.82 A5.66929 5.52756 90 0 1 4.25 12.53 A5.66929 5.52756
+							 90 0 1 4.25 4.95 A5.66929 5.52756 90 0 1 5.9 3.67 A5.66929 5.52756 90 0 1 7.54 3.14 A5.66929 5.52756
+							 90 0 1 9.18 3.14 A5.66929 5.52756 90 0 1 10.83 3.67 A5.66929 5.52756 90 0 1 12.47 4.95 A5.66929 5.52756
+							 90 0 1 12.47 12.53" class="st2"/>
+				<path d="M12.47 12.53 L12.47 4.95" class="st2"/>
+				<path d="M10.83 13.82 L10.83 3.67" class="st2"/>
+				<path d="M9.18 14.35 L9.18 3.14" class="st2"/>
+				<path d="M7.54 14.35 L7.54 3.14" class="st2"/>
+				<path d="M5.9 13.82 L5.9 3.67" class="st2"/>
+				<path d="M4.25 12.53 L4.25 4.95" class="st2"/>
+			</g>
+		</g>
+	</g>
+</svg>

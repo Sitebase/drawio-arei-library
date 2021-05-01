@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="0.239693in" height="0.295658in" viewBox="0 0 17.2579 21.2873" xml:space="preserve"
+		color-interpolation-filters="sRGB" class="st4">
+	<title>Refrigerator</title>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st2 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st3 {fill:#000000;font-family:Times New Roman;font-size:1.33333em}
+		.st4 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>Refrigerator</title>
+		<g id="1" transform="translate(0.125,-4.15447)">
+			<title>Refrigerator</title>
+			<g id="2">
+				<title>Refrigerator</title>
+				<rect x="0" y="4.27947" width="17.0079" height="17.0079" class="st1"/>
+			</g>
+			<g id="3" transform="translate(0,-2.89432)">
+				<title>Refrigerator</title>
+				<desc>*</desc>
+				<rect x="0" y="16.185" width="17.0079" height="5.10236" class="st2"/>
+				<text x="4.5" y="23.54" class="st3">*</text>			</g>
+		</g>
+	</g>
+</svg>

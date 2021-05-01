@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="0.161609in" height="0.161609in" viewBox="0 0 11.6358 11.6358" xml:space="preserve"
+		color-interpolation-filters="sRGB" class="st2">
+	<title>Lighting</title>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st2 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>Lighting</title>
+		<g id="1" transform="translate(0.125,-0.125)">
+			<title>Lighting</title>
+			<g id="2" transform="translate(8.27502,-7.97777) rotate(45)">
+				<title>Lighting</title>
+				<path d="M0 11.64 L15.91 11.64" class="st1"/>
+			</g>
+			<g id="3" transform="translate(19.6136,8.47777) rotate(135)">
+				<title>Lighting</title>
+				<path d="M0 11.64 L16.1 11.64" class="st1"/>
+			</g>
+		</g>
+	</g>
+</svg>

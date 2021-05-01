@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="0.318294in" height="0.200184in" viewBox="0 0 22.9172 14.4132" xml:space="preserve"
+		color-interpolation-filters="sRGB" class="st2">
+	<title>Wall light</title>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>Wall light</title>
+		<g id="1" transform="translate(0.12,-0.12)">
+			<title>Wall light</title>
+			<g id="2" transform="translate(22.6772,28.8265) rotate(180)">
+				<title>Wall light</title>
+				<path d="M0 14.41 L22.68 14.41" class="st1"/>
+			</g>
+			<g id="3" transform="translate(5.66929,-2.83465)">
+				<title>Wall light</title>
+				<g id="4" transform="translate(21.5303,13.2663) rotate(135)">
+					<title>Wall light</title>
+					<path d="M0 14.41 L16.04 14.41" class="st1"/>
+				</g>
+				<g id="5" transform="translate(1.14689,24.6049) rotate(-135)">
+					<title>Wall light</title>
+					<path d="M0 14.41 L16.04 14.41" class="st1"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

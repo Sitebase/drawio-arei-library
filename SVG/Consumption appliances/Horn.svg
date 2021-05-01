@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="0.239554in" height="0.0820735in" viewBox="0 0 17.2479 5.90929" xml:space="preserve"
+		color-interpolation-filters="sRGB" class="st2">
+	<title>Horn</title>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>Horn</title>
+		<g id="1" transform="translate(0.12,-0.12)">
+			<title>Horn</title>
+			<g id="2" transform="translate(11.5786,1.37386) rotate(90)">
+				<title>Horn</title>
+				<path d="M0 5.91 L3.4 5.91" class="st1"/>
+			</g>
+			<g id="3">
+				<title>Horn</title>
+				<path d="M5.67 4.78 L5.67 5.91 L0 5.91" class="st1"/>
+			</g>
+			<g id="4">
+				<title>Horn</title>
+				<path d="M5.67 4.78 L14.17 5.91 L17.01 0.24 L5.67 1.37 L5.67 0.24 L0 0.24 L0 3.07 L0 5.91" class="st1"/>
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="0.67511in" height="0.402304in" viewBox="0 0 48.6079 28.9659" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st6">
+	<title>Solar panel</title>
+	
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:#000000;font-family:Calibri;font-size:0.499992em}
+		.st3 {fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st4 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st5 {fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st6 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>Solar panel-1</title>
+		<g id="1" transform="translate(0.12,-0.12)">
+			<title>Solar panel</title>
+			<g id="2">
+				<title>Solar panel</title>
+				<g id="3" transform="translate(0.939862,-17.0079)">
+					<title>Solar panel</title>
+					<desc>x16</desc>
+					<rect x="0" y="21.7376" width="16.8661" height="7.22835" class="st1"/>
+					<text x="4.09" y="27.15" class="st2">x16</text>				</g>
+				<g id="4">
+					<title>Solar panel</title>
+					<g id="5" transform="translate(24.7408,-19.5455)">
+						<title>Solar panel</title>
+						<g id="6" transform="translate(2.54834,-2.54834)">
+							<title>Solar panel</title>
+							<ellipse cx="2.03935" cy="26.9266" rx="2.03935" ry="2.03935" class="st3"/>
+						</g>
+						<g id="7" transform="translate(-24.3782,21.9208) rotate(-90)">
+							<title>Solar panel</title>
+							<path d="M0 28.97 L2.13 28.97" class="st4"/>
+						</g>
+						<g id="8" transform="translate(7.04512,-4.5877)">
+							<title>Solar panel</title>
+							<path d="M0 28.97 L2.13 28.97" class="st4"/>
+						</g>
+						<g id="9" transform="translate(26.8074,5.63388) rotate(45)">
+							<title>Solar panel</title>
+							<path d="M0 28.97 L2.13 28.97" class="st4"/>
+						</g>
+						<g id="10" transform="translate(33.5536,26.8356) rotate(90)">
+							<title>Solar panel</title>
+							<path d="M0 28.97 L2.13 28.97" class="st4"/>
+						</g>
+						<g id="11" transform="translate(2.13028,53.3441) rotate(180)">
+							<title>Solar panel</title>
+							<path d="M0 28.97 L2.13 28.97" class="st4"/>
+						</g>
+						<g id="12" transform="translate(-17.7464,43.0075) rotate(-134.679)">
+							<title>Solar panel</title>
+							<path d="M0 28.97 L2.15 28.97" class="st4"/>
+						</g>
+						<g id="13" transform="translate(-14.203,2.19774) rotate(-45.1196)">
+							<title>Solar panel</title>
+							<path d="M0 28.97 L2.13 28.97" class="st4"/>
+						</g>
+						<g id="14" transform="translate(24.3334,45.713) rotate(132.366)">
+							<title>Solar panel</title>
+							<path d="M0 28.97 L2.13 28.97" class="st4"/>
+						</g>
+					</g>
+					<g id="14">
+						<title>Solar panel</title>
+						<g id="16">
+							<title>Solar panel</title>
+							<path d="M0 28.97 L31.09 28.97 L48.37 11.96 L17.27 11.96 L0 28.97 Z" class="st5"/>
+						</g>
+						<g id="17" transform="translate(10.2469,-2.53765)">
+							<title>Solar panel</title>
+							<path d="M27.87 17.03 L15.75 28.97" class="st4"/>
+							<path d="M20 17.03 L7.88 28.97" class="st4"/>
+							<path d="M12.12 17.03 L0 28.97" class="st4"/>
+							<path d="M27.87 23 L0 23" class="st4"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

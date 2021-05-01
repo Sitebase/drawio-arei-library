@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="0.111601in" height="0.138676in" viewBox="0 0 8.03528 9.98468" xml:space="preserve"
+		color-interpolation-filters="sRGB" class="st4">
+	<title>Waterproof wall outlet</title>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st3 {fill:#000000;font-family:Calibri;font-size:0.333344em}
+		.st4 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>Waterproof wall outlet</title>
+		<g id="1" transform="translate(3.19087,-0.415865)">
+			<title>Waterproof wall outlet</title>
+			<g id="2" transform="translate(9.98468,0.535865) rotate(90)">
+				<title>Waterproof wall outlet</title>
+				<path d="M0 5.26 A4.72441 4.72441 -90 0 0 4.72 9.98 A4.72441 4.72441 -90 0 0 9.45 5.26" class="st1"/>
+			</g>
+		</g>
+		<g id="3" transform="translate(0.12,-0.415865)">
+			<title>Waterproof wall outlet</title>
+			<desc>h</desc>
+			<rect x="0" y="6.01618" width="3.11811" height="3.9685" class="st2"/>
+			<text x="0.51" y="9.2" class="st3">h</text>		</g>
+	</g>
+</svg>

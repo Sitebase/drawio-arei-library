@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="0.0690026in" height="0.161048in" viewBox="0 0 4.96819 11.5955" xml:space="preserve"
+		color-interpolation-filters="sRGB" class="st2">
+	<title>Wall outlet with grounding and integrated safety shutter</title>
+	
+	<style type="text/css">
+	<![CDATA[
+		.st1 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>Wall outlet with grounding and integrated safety shutter</title>
+		<g id="1" transform="translate(0.12,-0.12)">
+			<title>Wall outlet with grounding and integrated safety shutter</title>
+			<g id="2">
+				<title>Wall outlet with grounding and integrated safety shutter</title>
+				<path d="M4.73 1.2 A4.72441 4.72441 -180 0 0 0 5.93 A4.72441 4.72441 -180 0 0 4.73 10.65" class="st1"/>
+				<path d="M4.73 10.65 L4.73 11.6" class="st1"/>
+				<path d="M4.73 0.25 L4.73 1.2" class="st1"/>
+				<path d="M0 0.24 L0 11.58" class="st1"/>
+			</g>
+		</g>
+	</g>
+</svg>

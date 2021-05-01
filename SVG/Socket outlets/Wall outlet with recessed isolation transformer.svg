@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="0.17in" height="0.160814in" viewBox="0 0 12.24 11.5786" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st3">
+	<title>Wall outlet with recessed isolation transformer</title>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none}
+		.st2 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>Wall outlet with recessed isolation transformer</title>
+		<g id="1" transform="translate(0.12,-0.12)">
+			<title>Wall outlet with recessed isolation transformer</title>
+			<g id="2">
+				<title>Wall outlet with recessed isolation transformer</title>
+				<path d="M5.24 11 A5.10236 5.24409 90 1 1 5.24 0.79 A5.10236 5.24409 90 1 1 5.24 11 Z" class="st1"/>
+				<path d="M0 5.91 L0 0.24" class="st2"/>
+				<path d="M0 11.58 L0 5.91" class="st2"/>
+				<path d="M5.24 11 A5.10236 5.24409 90 1 1 5.24 0.79 A5.10236 5.24409 90 1 1 5.24 11" class="st2"/>
+				<path d="M7.28 5.91 A4.72441 4.72441 1.03 0 1 12 1.18" class="st2"/>
+				<path d="M12 10.63 A4.72441 4.72441 0.7 0 1 7.28 5.91" class="st2"/>
+			</g>
+		</g>
+	</g>
+</svg>

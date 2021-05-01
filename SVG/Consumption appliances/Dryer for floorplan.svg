@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="0.288766in" height="0.239623in" viewBox="0 0 20.7912 17.2529" xml:space="preserve"
+		color-interpolation-filters="sRGB" class="st5">
+	<title>Dryer for floorplan</title>
+	
+	<style type="text/css">
+	<![CDATA[
+		.st1 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st2 {fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st3 {fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st4 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st5 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>Dryer for floorplan</title>
+		<g id="1" transform="translate(0.12,-0.125)">
+			<title>Dryer for floorplan</title>
+			<g id="2" transform="translate(20.7962,8.74894) rotate(90)">
+				<title>Dryer for floorplan</title>
+				<path d="M0 17.25 L8.5 17.25" class="st1"/>
+			</g>
+			<g id="3" transform="translate(7.79528,-9.92126)">
+				<title>Dryer for floorplan</title>
+				<ellipse cx="2.12598" cy="15.1269" rx="2.12598" ry="2.12598" class="st2"/>
+			</g>
+			<g id="4" transform="translate(12.0472,-9.92126)">
+				<title>Dryer for floorplan</title>
+				<ellipse cx="2.12598" cy="15.1269" rx="2.12598" ry="2.12598" class="st2"/>
+			</g>
+			<g id="5" transform="translate(9.77953,-3.9685)">
+				<title>Dryer for floorplan</title>
+				<ellipse cx="2.26772" cy="14.9852" rx="2.26772" ry="2.26772" class="st3"/>
+			</g>
+			<g id="6">
+				<title>Dryer for floorplan</title>
+				<path d="M3.54 17.25 L20.55 17.25 L20.55 0.25 L3.54 0.25 L3.54 8.75 L0 8.75" class="st4"/>
+			</g>
+		</g>
+	</g>
+</svg>

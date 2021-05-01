@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="0.278924in" height="0.121444in" viewBox="0 0 20.0825 8.74394" xml:space="preserve"
+		color-interpolation-filters="sRGB" class="st4">
+	<title>Time switch</title>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st3 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st4 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>Time switch</title>
+		<g id="1" transform="translate(0.12,-0.12)">
+			<title>Time switch</title>
+			<g id="2">
+				<title>Time switch</title>
+				<rect x="0" y="0.24" width="19.8425" height="8.50394" class="st1"/>
+			</g>
+			<g id="3" transform="translate(4.2378,-3.8374)">
+				<title>Time switch</title>
+				<ellipse cx="0.297638" cy="8.4711" rx="0.297638" ry="0.272835" class="st2"/>
+			</g>
+			<g id="4" transform="translate(2.55118,-2.12598)">
+				<title>Time switch</title>
+				<g id="shape18-7" transform="translate(6.80315,-1.98425)">
+					<title>Sheet.18</title>
+					<path d="M0 5.91 L5.67 8.74 L8.5 8.74" class="st3"/>
+				</g>
+				<g id="5">
+					<title>Time switch</title>
+					<g id="6">
+						<title>Time switch</title>
+						<path d="M3.97 6.76 A1.98425 1.98425 -180 1 0 0 6.76 A1.98425 1.98425 -180 1 0 3.97 6.76" class="st3"/>
+						<path d="M6.8 6.76 L3.97 6.76" class="st3"/>
+					</g>
+					<g id="7" transform="translate(1.98425,-1.98425)">
+						<title>Time switch</title>
+						<path d="M0 8.47 L0 7.26" class="st3"/>
+						<path d="M1.11 8.74 L0.12 8.74" class="st3"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

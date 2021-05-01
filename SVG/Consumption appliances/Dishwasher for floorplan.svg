@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="0.288766in" height="0.239554in" viewBox="0 0 20.7912 17.2479" xml:space="preserve"
+		color-interpolation-filters="sRGB" class="st3">
+	<title>Dishwasher for floorplan</title>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none}
+		.st2 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>Dishwasher for floorplan</title>
+		<g id="1" transform="translate(0.12,-0.12)">
+			<title>Dishwasher for floorplan</title>
+			<g id="2">
+				<title>Dishwasher for floorplan</title>
+				<path d="M20.55 0.24 L3.54 0.24 L3.54 17.25 L20.55 17.25 L20.55 0.24 Z" class="st1"/>
+				<path d="M10.04 10.75 L3.54 17.25" class="st2"/>
+				<path d="M10.04 6.74 L3.54 0.24" class="st2"/>
+				<path d="M14.05 10.75 L20.55 17.25" class="st2"/>
+				<path d="M20.55 0.24 L3.54 0.24 L3.54 17.25 L20.55 17.25 L20.55 0.24" class="st2"/>
+				<path d="M20.55 0.24 L14.05 6.74 A2.83465 2.83465 180 0 0 10.04 6.74 A2.83465 2.83465 -107.04 0 0 10.04 10.75 A2.83465
+							 2.83465 -90 0 0 14.05 10.75 A2.83465 2.83465 -72.96 0 0 14.05 6.74" class="st2"/>
+				<path d="M-0 8.74 L3.54 8.74" class="st2"/>
+			</g>
+		</g>
+	</g>
+</svg>

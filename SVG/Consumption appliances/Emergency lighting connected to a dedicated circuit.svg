@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="0.161657in" height="0.161798in" viewBox="0 0 11.6393 11.6494" xml:space="preserve"
+		color-interpolation-filters="sRGB" class="st3">
+	<title>Emergency lighting connected to a dedicated circuit</title>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>Emergency lighting connected to a dedicated circuit</title>
+		<g id="1" transform="translate(0.12,-0.12)">
+			<title>Noodverlichting aangesloten op een speciale stroombaan</title>
+			<g id="2" transform="translate(2.84477,-2.83465)">
+				<title>Emergency lighting connected to a dedicated circuit</title>
+				<ellipse cx="2.83465" cy="8.8148" rx="2.83465" ry="2.83465" class="st1"/>
+			</g>
+			<g id="3" transform="translate(-0.0303712,0)">
+				<title>Emergency lighting connected to a dedicated circuit</title>
+				<g id="4" transform="translate(8.26778,-7.92654) rotate(45)">
+					<title>Emergency lighting connected to a dedicated circuit</title>
+					<path d="M0 11.65 L16.04 11.65" class="st2"/>
+				</g>
+				<g id="5" transform="translate(19.6671,8.4774) rotate(135)">
+					<title>Emergency lighting connected to a dedicated circuit</title>
+					<path d="M0 11.65 L16.04 11.65" class="st2"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

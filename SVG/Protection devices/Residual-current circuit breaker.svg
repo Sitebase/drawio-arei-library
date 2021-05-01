@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="0.535591in" height="0.415129in" viewBox="0 0 38.5625 29.8893" xml:space="preserve"
+		color-interpolation-filters="sRGB" class="st8">
+	<title>Residual-current circuit breaker</title>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st2 {fill:#000000;font-family:Arial;font-size:0.416656em}
+		.st3 {fill:#000000;font-family:Arial;font-size:0.499992em}
+		.st4 {fill:#000000}
+		.st5 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st6 {fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st7 {fill:#000000;font-family:Times New Roman;font-size:0.833336em}
+		.st8 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>Residual-current circuit breaker</title>
+		<g id="1" transform="translate(0.36,-0.36)">
+			<title>Residual-current circuit breaker</title>
+			<g id="2" transform="translate(0,-10.3465)">
+				<title>Residual-current circuit breaker</title>
+				<desc>nP</desc>
+				<rect x="0" y="23.3696" width="9.14173" height="6.51969" class="st1"/>
+				<text x="1.51" y="28.13" class="st2">nP</text>			</g>
+			<g id="3" transform="translate(5.45669,0)">
+				<title>Residual-current circuit breaker</title>
+				<desc>n</desc>
+				<rect x="0" y="23.3696" width="9.35433" height="6.51969" class="st1"/>
+				<text x="3.01" y="28.43" class="st3">n</text>			</g>
+			<g id="4" transform="translate(5.29356,-3.55271E-015)">
+				<title>Residual-current circuit breaker</title>
+				<path d="M1.76 12.09 L3.28 11.34 L1.53 7.78 L0 8.53 L1.76 12.09 Z" class="st4"/>
+				<path d="M9.73 1.54 L9.73 7.21" class="st5"/>
+				<path d="M9.73 29.89 L9.73 24.22 L5.53 15.83 L1.51 7.78" class="st5"/>
+				<path d="M8.7 14.22 L5.53 15.83 L2.24 17.5" class="st5"/>
+				<path d="M1.76 12.09 L3.28 11.34 L1.53 7.78 L0 8.53 L1.76 12.09" class="st5"/>
+			</g>
+			<g id="5" transform="translate(16.5827,-4.25197)">
+				<title>Residual-current circuit breaker</title>
+				<desc>40A</desc>
+				<rect x="0" y="23.3696" width="21.2598" height="6.51969" class="st1"/>
+				<text x="0" y="28.43" class="st3">40A</text>			</g>
+			<g id="6" transform="translate(16.5827,-11.1969)">
+				<title>Residual-current circuit breaker</title>
+				<desc>300mA</desc>
+				<rect x="0" y="23.3696" width="21.2598" height="6.51969" class="st1"/>
+				<text x="0" y="28.43" class="st3">300mA</text>			</g>
+			<g id="7" transform="translate(21.2598,-19.9198)">
+				<title>Residual-current circuit breaker</title>
+				<path d="M2.41 25.07 L0 29.89 L4.82 29.89 L2.41 25.07 Z" class="st6"/>
+			</g>
+			<g id="8" transform="translate(26.9291,-17.7938)">
+				<title>Residual-current circuit breaker</title>
+				<desc>I</desc>
+				<rect x="0" y="19.9681" width="3.11811" height="9.92126" class="st1"/>
+				<text x="0" y="27.93" class="st7">I</text>			</g>
+		</g>
+	</g>
+</svg>

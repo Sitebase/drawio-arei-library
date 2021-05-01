@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="0.162189in" height="0.289261in" viewBox="0 0 11.6776 20.8268" xml:space="preserve"
+		color-interpolation-filters="sRGB" class="st3">
+	<title>Intermediate switch</title>
+	
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none}
+		.st2 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>Intermediate switch</title>
+		<g id="1" transform="translate(0.12,-0.12)">
+			<title>Intermediate switch</title>
+			<g id="2">
+				<title>Intermediate switch</title>
+				<path d="M8.55 10.53 A2.83465 2.83465 0 1 1 2.88 10.53 A2.83465 2.83465 0 1 1 8.55 10.53 Z" class="st1"/>
+				<path d="M8.55 10.53 A2.83465 2.83465 0 1 1 2.88 10.53 A2.83465 2.83465 0 1 1 8.55 10.53" class="st2"/>
+				<path d="M11.44 0.96 L9.46 0.24 L6.69 7.87" class="st2"/>
+				<path d="M4.75 13.2 L2.76 18.68 L1.97 20.83 L0 20.11" class="st2"/>
+				<path d="M11.44 20.11 L9.46 20.83 L6.69 13.2" class="st2"/>
+				<path d="M0 0.96 L1.97 0.24 L4.75 7.87" class="st2"/>
+			</g>
+		</g>
+	</g>
+</svg>

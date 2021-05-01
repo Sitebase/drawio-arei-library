@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="0.278924in" height="0.121444in" viewBox="0 0 20.0825 8.74394" xml:space="preserve"
+		color-interpolation-filters="sRGB" class="st4">
+	<title>Timer</title>
+	
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st3 {fill:#000000;font-family:Calibri;font-size:0.499992em}
+		.st4 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>Timer</title>
+		<g id="1" transform="translate(0.12,-0.12)">
+			<title>Timer</title>
+			<g id="2">
+				<title>Timer</title>
+				<rect x="0" y="0.24" width="19.8425" height="8.50394" class="st1"/>
+			</g>
+			<g id="3" transform="translate(8.3622,-2.27146)">
+				<title>Timer</title>
+				<desc>t</desc>
+				<rect x="0" y="4.77543" width="3.11811" height="3.9685" class="st2"/>
+				<text x="0.55" y="8.56" class="st3">t</text>			</g>
+		</g>
+	</g>
+</svg>

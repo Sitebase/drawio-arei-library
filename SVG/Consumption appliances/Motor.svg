@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="0.160953in" height="0.160953in" viewBox="0 0 11.5886 11.5886" xml:space="preserve"
+		color-interpolation-filters="sRGB" class="st4">
+	<title>Motor</title>
+	
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st3 {fill:#000000;font-family:Times New Roman;font-size:0.666664em}
+		.st4 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>Motor</title>
+		<g id="1" transform="translate(0.125,-0.125)">
+			<title>Motor</title>
+			<g id="2">
+				<title>Motor</title>
+				<ellipse cx="5.66929" cy="5.91929" rx="5.66929" ry="5.66929" class="st1"/>
+			</g>
+			<g id="3">
+				<title>Motor</title>
+				<desc>M</desc>
+				<rect x="0" y="0.25" width="11.3386" height="11.3386" class="st2"/>
+				<text x="2.11" y="8.32" class="st3">M</text>			</g>
+		</g>
+	</g>
+</svg>

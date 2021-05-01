@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="0.198871in" height="0.160814in" viewBox="0 0 14.3187 11.5786" xml:space="preserve"
+		color-interpolation-filters="sRGB" class="st2">
+	<title>Lighting luminaire with built-in switch</title>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>Lighting luminaire with built-in switch</title>
+		<g id="1" transform="translate(0.12,-0.12)">
+			<title>Lighting luminaire with built-in switch</title>
+			<path d="M0 11.58 L11.34 0.24 L14.08 2.98" class="st1"/>
+			<path d="M11.34 11.58 L0 0.24" class="st1"/>
+		</g>
+	</g>
+</svg>

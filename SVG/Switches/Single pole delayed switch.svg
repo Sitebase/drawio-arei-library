@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="0.122131in" height="0.185667in" viewBox="0 0 8.79345 13.368" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st5">
+	<title>Single pole delayed switch</title>
+	
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:#000000;font-family:Calibri;font-size:0.333344em}
+		.st3 {fill:none}
+		.st4 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st5 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>Single pole delayed switch</title>
+		<g id="1" transform="translate(0.12,-0.12)">
+			<title>Single pole delayed switch</title>
+			<g id="2" transform="translate(5.38583,-7.37008)">
+				<title>Single pole delayed switch</title>
+				<desc>t</desc>
+				<rect x="0" y="9.39954" width="3.11811" height="3.9685" class="st1"/>
+				<text x="0.89" y="12.58" class="st2">t</text>			</g>
+			<g id="3">
+				<title>Single pole delayed switch</title>
+				<path d="M5.67 10.53 A2.83465 2.83465 0 1 1 0 10.53 A2.83465 2.83465 0 1 1 5.67 10.53 Z" class="st3"/>
+				<path d="M5.67 10.53 A2.83465 2.83465 0 1 1 0 10.53 A2.83465 2.83465 0 1 1 5.67 10.53" class="st4"/>
+				<path d="M8.55 0.96 L6.58 0.24 L5.8 2.39 L3.8 7.87" class="st4"/>
+			</g>
+		</g>
+	</g>
+</svg>

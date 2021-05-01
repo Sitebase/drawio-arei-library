@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="0.239693in" height="0.239693in" viewBox="0 0 17.2579 17.2579" xml:space="preserve"
+		color-interpolation-filters="sRGB" class="st4">
+	<title>Dryer</title>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st2 {fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st3 {fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st4 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>Dryer</title>
+		<g id="1" transform="translate(0.125,-0.125)">
+			<title>Dryer</title>
+			<g id="2" transform="translate(17.2579,8.75394) rotate(90)">
+				<title>Blad.14</title>
+				<path d="M0 17.26 L8.5 17.26" class="st1"/>
+			</g>
+			<g id="3">
+				<title>Dryer</title>
+				<path d="M0 17.26 L17.01 17.26 L17.01 0.25 L0 0.25 L0 8.75" class="st1"/>
+			</g>
+			<g id="4" transform="translate(4.25197,-9.92126)">
+				<title>Dryer</title>
+				<ellipse cx="2.12598" cy="15.1319" rx="2.12598" ry="2.12598" class="st2"/>
+			</g>
+			<g id="5" transform="translate(8.50394,-9.92126)">
+				<title>Dryer</title>
+				<ellipse cx="2.12598" cy="15.1319" rx="2.12598" ry="2.12598" class="st2"/>
+			</g>
+			<g id="6" transform="translate(6.23622,-3.9685)">
+				<title>Dryer</title>
+				<ellipse cx="2.26772" cy="14.9902" rx="2.26772" ry="2.26772" class="st3"/>
+			</g>
+		</g>
+	</g>
+</svg>

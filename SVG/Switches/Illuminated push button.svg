@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="0.121444in" height="0.121444in" viewBox="0 0 8.74394 8.74394" xml:space="preserve"
+		color-interpolation-filters="sRGB" class="st3">
+	<title>Illuminated push button</title>
+	
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none}
+		.st2 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>Illuminated push button</title>
+		<g id="1" transform="translate(0.12,-0.12)">
+			<title>Illuminated push button</title>
+			<g id="2">
+				<title>Illuminated push button</title>
+				<path d="M6.38 4.49 A2.12598 2.12598 -180 1 0 2.13 4.49 A2.12598 2.12598 -180 1 0 6.38 4.49 ZM8.5 4.49 A4.25197 4.25197
+							 0 1 1 0 4.49 A4.25197 4.25197 0 1 1 8.5 4.49 Z" class="st1"/>
+				<path d="M2.75 2.99 L5.76 6" class="st2"/>
+				<path d="M2.75 6 L5.76 2.99" class="st2"/>
+				<path d="M6.38 4.49 A2.12598 2.12598 -180 1 0 2.13 4.49 A2.12598 2.12598 -180 1 0 6.38 4.49" class="st2"/>
+				<path d="M8.5 4.49 A4.25197 4.25197 0 1 1 0 4.49 A4.25197 4.25197 0 1 1 8.5 4.49" class="st2"/>
+			</g>
+		</g>
+	</g>
+</svg>

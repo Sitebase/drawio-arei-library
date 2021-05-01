@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="0.266579in" height="0.397173in" viewBox="0 0 19.1937 28.5965" xml:space="preserve"
+		color-interpolation-filters="sRGB" class="st5">
+	<title>Fuse</title>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st2 {fill:#000000;font-family:Arial;font-size:0.499992em}
+		.st3 {fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st4 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st5 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>Fuse</title>
+		<g id="1" transform="translate(0.36,-0.125)">
+			<title>Fuse</title>
+			<g id="2" transform="translate(0,-10.9134)">
+				<title>Fuse</title>
+				<g id="3">
+					<title>Fuse</title>
+					<desc>20A</desc>
+					<rect x="0" y="22.0768" width="11.3386" height="6.51969" class="st1"/>
+					<text x="0.33" y="27.14" class="st2">20A</text>				</g>
+			</g>
+			<g id="4">
+				<title>Fuse</title>
+			</g>
+			<g id="5" transform="translate(15.874,-5.66929)">
+				<title>Fuse</title>
+				<rect x="0" y="11.5886" width="2.83465" height="17.0079" class="st3"/>
+			</g>
+			<g id="6" transform="translate(-12.7224,22.9272) rotate(-90)">
+				<title>Fuse</title>
+				<path d="M0 28.6 L17.01 28.6" class="st4"/>
+			</g>
+			<g id="7" transform="translate(-12.7224,5.91929) rotate(-90)">
+				<title>Fuse</title>
+				<path d="M0 28.6 L5.67 28.6" class="st4"/>
+			</g>
+			<g id="8" transform="translate(44.4705,5.91929) rotate(90)">
+				<title>Fuse</title>
+				<path d="M0 28.6 L17.01 28.6" class="st4"/>
+			</g>
+			<g id="9" transform="translate(15.874,51.5236) rotate(180)">
+				<title>Fuse</title>
+				<path d="M0 28.6 L2.83 28.6" class="st4"/>
+			</g>
+			<g id="10" transform="translate(13.0394,-5.66929)">
+				<title>Fuse</title>
+				<path d="M0 28.6 L0 11.59 L2.83 11.59" class="st4"/>
+			</g>
+			<g id="11" transform="translate(-12.7224,28.5965) rotate(-90)">
+				<title>Fuse</title>
+				<path d="M0 28.6 L5.67 28.6" class="st4"/>
+			</g>
+		</g>
+	</g>
+</svg>

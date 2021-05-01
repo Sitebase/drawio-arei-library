@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="0.195751in" height="0.169359in" viewBox="0 0 14.0941 12.1938" xml:space="preserve"
+		color-interpolation-filters="sRGB" class="st3">
+	<title>Wall outlet with double pole locking switch for floorplan</title>
+		
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>Electrical wall outlet for floorplan</title>
+		<g id="1" transform="translate(0.12,-0.12)">
+			<title>Electrical wall outlet for floorplan</title>
+			<g id="2">
+				<title>Electrical wall outlet for floorplan</title>
+				<g id="3" transform="translate(8.55307,-5.64094)">
+					<title>Electrical wall outlet for floorplan</title>
+					<ellipse cx="0.576073" cy="11.5985" rx="0.576073" ry="0.595276" class="st1"/>
+				</g>
+				<g id="4">
+					<title>Electrical wall outlet for floorplan</title>
+					<g id="5">
+						<title>Electrical wall outlet for floorplan</title>
+						<path d="M9.13 11.58 L9.13 0.24" class="st2"/>
+						<path d="M13.85 1.2 L13.85 0.25" class="st2"/>
+						<path d="M13.85 11.6 L13.85 10.65" class="st2"/>
+						<path d="M13.85 10.65 A4.72441 4.72441 0 0 1 9.13 5.93 A4.72441 4.72441 0 0 1 13.85 1.2" class="st2"/>
+						<path d="M3.83 11.12 L2.72 8.45" class="st2"/>
+						<path d="M9.13 5.92 L0 9.53 L1.11 12.19" class="st2"/>
+					</g>
+				</g>
+			</g>
+			<g id="6" transform="translate(5.56522,-6.26455) rotate(-0.0814889)">
+				<title>Electrical wall outlet for floorplan</title>
+				<path d="M0 12.19 L3.54 12.19" class="st2"/>
+			</g>
+		</g>
+	</g>
+</svg>

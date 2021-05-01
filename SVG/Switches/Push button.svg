@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="0.121444in" height="0.121444in" viewBox="0 0 8.74394 8.74394" xml:space="preserve"
+		color-interpolation-filters="sRGB" class="st2">
+	<title>Push button</title>
+	
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>Push button</title>
+		<g id="1" transform="translate(0.12,-0.12)">
+			<title>Push button</title>
+			<g id="2">
+				<title>Push button</title>
+				<ellipse cx="4.25197" cy="4.49197" rx="4.25197" ry="4.25197" class="st1"/>
+			</g>
+			<g id="3" transform="translate(2.12598,-2.12598)">
+				<title>Push button</title>
+				<ellipse cx="2.12598" cy="6.61795" rx="2.12598" ry="2.12598" class="st1"/>
+			</g>
+		</g>
+	</g>
+</svg>

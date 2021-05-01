@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="0.177648in" height="0.751365in" viewBox="0 0 12.7907 54.0983" xml:space="preserve"
+		color-interpolation-filters="sRGB" class="st4">
+	<title>Amount of cables</title>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st2 {fill:#000000;font-family:Arial;font-size:0.499992em}
+		.st3 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st4 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>Amount of cables</title>
+		<g id="1" transform="translate(1.33209,-0.12)">
+			<title>Amount of cables</title>
+			<g id="2" transform="translate(-49.5628,27.7361) rotate(-90)">
+				<title>Amount of cables</title>
+				<desc>n</desc>
+				<rect x="0" y="49.5628" width="11.3386" height="4.53543" class="st1"/>
+				<text x="4" y="53.63" class="st2">n</text>			</g>
+			<g id="3" transform="translate(1.13386,0)">
+				<title>Amount of cables</title>
+				<path d="M5.1 0.24 L5.1 48.43 L5.1 54.1" class="st3"/>
+				<path d="M10.2 27.17 L5.1 27.17 L-0 27.17" class="st3"/>
+			</g>
+		</g>
+	</g>
+</svg>

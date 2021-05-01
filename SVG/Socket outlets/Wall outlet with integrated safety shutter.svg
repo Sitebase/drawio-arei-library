@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="0.0689501in" height="0.160841in" viewBox="0 0 4.96441 11.5806" xml:space="preserve"
+		color-interpolation-filters="sRGB" class="st2">
+	<title>Wall outlet with integrated safety shutter</title>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>Wall outlet with integrated safety shutter</title>
+		<g id="1" transform="translate(0.12,-0.12)">
+			<title>Wall outlet with integrated safety shutter</title>
+			<g id="2">
+				<title>Wall outlet with integrated safety shutter</title>
+				<path d="M4.72 1.18 L4.72 0.24" class="st1"/>
+				<path d="M4.72 11.58 L4.72 10.64" class="st1"/>
+				<path d="M4.72 10.64 A4.72441 4.72441 0 0 1 -0 5.91 A4.72441 4.72441 0 0 1 4.72 1.19" class="st1"/>
+			</g>
+		</g>
+	</g>
+</svg>

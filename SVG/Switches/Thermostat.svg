@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="0.278924in" height="0.121444in" viewBox="0 0 20.0825 8.74394" xml:space="preserve"
+		color-interpolation-filters="sRGB" class="st3">
+	<title>Thermostat</title>
+	
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st2 {fill:#000000;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st3 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g>
+		<title>Thermostat</title>
+		<g id="1" transform="translate(0.12,-0.12)">
+			<title>Thermostat</title>
+			<g id="2">
+				<title>Thermostat</title>
+				<rect x="0" y="0.24" width="19.8425" height="8.50394" class="st1"/>
+			</g>
+			<g id="3" transform="translate(7.93701,-2.26772)">
+				<title>Thermostat</title>
+				<ellipse cx="1.98425" cy="6.75969" rx="1.98425" ry="1.98425" class="st2"/>
+			</g>
+		</g>
+	</g>
+</svg>

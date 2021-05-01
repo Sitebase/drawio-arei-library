@@ -1,0 +1,18 @@
+{
+  "name": "svg2mxlibrary",
+  "version": "0.0.1",
+  "bin": {
+    "svg2mxlibrary": "index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "^16.4.0",
+    "mxgraph": "^4.2.2",
+    "pako": "^1.0.11",
+    "yargs": "^16.1.0"
+  },
+  "devDependencies": {
+    "@types/jsdom": "^16.2.5",
+    "@types/yargs": "^15.0.9"
+  }
+}
