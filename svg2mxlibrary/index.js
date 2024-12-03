@@ -46,7 +46,7 @@ const library = argv.map((arg) => {
     const modelXML = mxUtils.getXml(modelNode)
     const xml = Buffer.from(pako.deflateRaw(encodeURIComponent(modelXML))).toString('base64')
 
-    return { title, xml, w: argv.size, h: argv.size }
+    return { title, xml, w: 80, h: 80 }
 })
 
 // remove skipped (null) entries
