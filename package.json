@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "jsdom": "^25.0.1",
+    "mxgraph": "^4.2.2",
+    "pako": "^2.1.0"
+  }
+}

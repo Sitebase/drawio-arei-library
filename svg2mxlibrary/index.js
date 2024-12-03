@@ -1,19 +1,11 @@
 #!/usr/bin/env node
 'use strict'
 
-const yargs = require('yargs')
-  .scriptName('svg2mxlibrary')
-  .usage('$0 [options] <SVG files...>')
-  .help()
-  .options({
-    out: { alias: 'o', default: 'mxlibrary.xml', describe: 'output file', type: 'string' },
-    size: { alias: 's', default: 80, describe: 'icon size', type: 80 }
-  })
-const argv = yargs.argv
-if (argv._.length === 0) {
-  yargs.showHelp()
-  process.exit(1)
-}
+const fs = require('fs')
+const path = require('path')
+const pako = require('pako')
+const process = require('process');
+const argv = process.argv
 
 const { JSDOM } = require('jsdom')
 
@@ -31,27 +23,34 @@ defaultStyle = mxUtils.setStyle(defaultStyle, mxConstants.STYLE_VERTICAL_ALIGN, 
 defaultStyle = mxUtils.setStyle(defaultStyle, mxConstants.STYLE_IMAGE_ASPECT, 1)
 defaultStyle = mxUtils.setStyle(defaultStyle, mxConstants.STYLE_ASPECT, 'fixed')
 
-const fs = require('fs')
-const path = require('path')
-const pako = require('pako')
 
-const library = argv._.map((arg) => {
-  const title = path.basename(arg, '.svg').replace(/-/g, ' ')
+const library = argv.map((arg) => {
 
-  const svg = fs.readFileSync(arg)
-  const image = 'data:image/svg+xml,' + Buffer.from(svg).toString('base64')
-  const style = mxUtils.setStyle(defaultStyle, mxConstants.STYLE_IMAGE, image)
+    // skip non SVG files
+    if (!arg.includes('.svg'))
+        return;
 
-  const graph = new mxGraph()
-  const parent = graph.getDefaultParent();
-  graph.getModel().beginUpdate()
-  graph.insertVertex(parent, null, '', 0, 0, argv.size, argv.size, style)
-  graph.getModel().endUpdate()
-  const modelNode = new mxCodec().encode(graph.getModel())
-  const modelXML = mxUtils.getXml(modelNode)
-  const xml = Buffer.from(pako.deflateRaw(encodeURIComponent(modelXML))).toString('base64')
+    const title = path.basename(arg, '.svg').replace(/-/g, ' ')
+    console.log('Add to library', title);
 
-  return { title, xml, w: argv.size, h: argv.size }
+    const svg = fs.readFileSync(arg)
+    const image = 'data:image/svg+xml,' + Buffer.from(svg).toString('base64')
+    const style = mxUtils.setStyle(defaultStyle, mxConstants.STYLE_IMAGE, image)
+
+    const graph = new mxGraph()
+    const parent = graph.getDefaultParent();
+    graph.getModel().beginUpdate()
+    graph.insertVertex(parent, null, '', 0, 0, argv.size, argv.size, style)
+    graph.getModel().endUpdate()
+    const modelNode = new mxCodec().encode(graph.getModel())
+    const modelXML = mxUtils.getXml(modelNode)
+    const xml = Buffer.from(pako.deflateRaw(encodeURIComponent(modelXML))).toString('base64')
+
+    return { title, xml, w: argv.size, h: argv.size }
 })
 
-fs.writeFileSync(argv.out, '<mxlibrary>' + JSON.stringify(library) + '</mxlibrary>')
+// remove skipped (null) entries
+const cleanLibrary = library.filter(x => x);
+
+fs.writeFileSync(argv[3], '<mxlibrary>' + JSON.stringify(cleanLibrary) + '</mxlibrary>')
+console.log('Generate library: ', argv[3]);

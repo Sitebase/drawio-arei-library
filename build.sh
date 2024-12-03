@@ -1,1 +1,1 @@
-node svg2mxlibrary -o AREI SVG/*/*.svg
+node svg2mxlibrary -o AREI.xml SVG/*/*.svg
